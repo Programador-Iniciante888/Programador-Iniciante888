@@ -1,8 +1,8 @@
 # Welcome to My Profile!
 
-![Banner](https://example.com/banner.png)
 
-Hello, I am [Your Name]. 🖐️ I am a Software Developer passionate about creating innovative solutions and enhancing user experiences. 
+
+Hello, I am [José]. 🖐️ I am a Software Developer passionate about creating innovative solutions and enhancing user experiences. 
 
 ## Programming Languages
 
@@ -29,13 +29,7 @@ C# is a powerful object-oriented programming language used for developing a wide
 
 ## Projects
 
-- Project 1: [Project Name](https://example.com/project1) - Brief description of the project.
-- Project 2: [Project Name](https://example.com/project2) - Brief description of the project.
-- Project 3: [Project Name](https://example.com/project3) - Brief description of the project.
+- Project 1: [Image Editor](github.com/Programador-Iniciante888/EditorImagem)
 
-## Get in touch
-
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Email: [Your Email](mailto:youremail@example.com)
 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect. Let's create amazing things together! 😄
