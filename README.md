@@ -29,7 +29,7 @@ C# is a powerful object-oriented programming language used for developing a wide
 
 ## Projects
 
-- Project 1: [Image Editor](github.com/Programador-Iniciante888/EditorImagem)
+- Project 1: [Image Editor]([github.com/Programador-Iniciante888/EditorImagem](https://github.com/Programador-Iniciante888/EditorImagem))
 
 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect. Let's create amazing things together! 😄
