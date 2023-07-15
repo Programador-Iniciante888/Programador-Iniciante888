@@ -15,7 +15,7 @@ Hello, I am [José]. 🖐️ I am a Software Developer passionate about creating
 
 - Bootstrap 
 - React
--A little of Typescript 
+- A little of Typescript 
 
 
 ## HTML
