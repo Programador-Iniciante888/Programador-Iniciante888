@@ -11,6 +11,13 @@ Hello, I am [José]. 🖐️ I am a Software Developer passionate about creating
 - JavaScript
 - C#
 
+## FrameWorks / libras:
+
+- Bootstrap 
+- React
+-A little of Typescript 
+
+
 ## HTML
 
 HTML is the backbone of web development. It provides the structure and defines the content of a webpage. I have experience in creating semantic and accessible HTML code to ensure compatibility across various devices and browsers.
